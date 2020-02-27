@@ -19,3 +19,4 @@ const aaa = 100
 const fn = () => {
   console.log(this)
 }
+console.log('第四次')
